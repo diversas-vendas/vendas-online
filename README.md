@@ -1,2 +1,2 @@
-# vendas-online
-Vendas de diversos produtos online
+# Diversos
+ Venda de Diversos artigos
